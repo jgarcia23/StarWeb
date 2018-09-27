@@ -1,5 +1,4 @@
 theme: jekyll-theme-architect
-gem "github-pages", group: :jekyll_plugins
 
 title: JGarcia Bio
 description: This site is intended to be a personal website to help me link with job recuiters and other users.  
